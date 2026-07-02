@@ -206,4 +206,4 @@ version = "14.20-20251217-1"
 capacity = 1
 
 [storage]
-version = "0.13.0"
+version = "0.15.0"
